@@ -1,4 +1,4 @@
-# ftp-file-manager-with-php
+# ftp-file-manager-with-php 1.1
 <img src="img/coding_mahib_32x32.png">
 The project is under development.
 
